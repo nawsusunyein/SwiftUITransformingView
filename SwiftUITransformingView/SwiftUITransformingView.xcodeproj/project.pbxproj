@@ -25,6 +25,8 @@
 		23EB2149242228DD006288C0 /* RotateAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB2148242228DD006288C0 /* RotateAView.swift */; };
 		23EB214B24222BF7006288C0 /* RotateAViewin3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214A24222BF7006288C0 /* RotateAViewin3D.swift */; };
 		23EB214D24222D66006288C0 /* ScaleAViewUpOrDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214C24222D66006288C0 /* ScaleAViewUpOrDown.swift */; };
+		23EB214F242231F3006288C0 /* OpacityOfAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214E242231F3006288C0 /* OpacityOfAView.swift */; };
+		23EB2151242232AB006288C0 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB2150242232AB006288C0 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -69,6 +71,8 @@
 		23EB2148242228DD006288C0 /* RotateAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateAView.swift; sourceTree = "<group>"; };
 		23EB214A24222BF7006288C0 /* RotateAViewin3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateAViewin3D.swift; sourceTree = "<group>"; };
 		23EB214C24222D66006288C0 /* ScaleAViewUpOrDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleAViewUpOrDown.swift; sourceTree = "<group>"; };
+		23EB214E242231F3006288C0 /* OpacityOfAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpacityOfAView.swift; sourceTree = "<group>"; };
+		23EB2150242232AB006288C0 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +140,8 @@
 				23EB2148242228DD006288C0 /* RotateAView.swift */,
 				23EB214A24222BF7006288C0 /* RotateAViewin3D.swift */,
 				23EB214C24222D66006288C0 /* ScaleAViewUpOrDown.swift */,
+				23EB214E242231F3006288C0 /* OpacityOfAView.swift */,
+				23EB2150242232AB006288C0 /* SecondView.swift */,
 			);
 			path = SwiftUITransformingView;
 			sourceTree = "<group>";
@@ -298,10 +304,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				23EB2143242220F2006288C0 /* BorderInsideAView.swift in Sources */,
+				23EB214F242231F3006288C0 /* OpacityOfAView.swift in Sources */,
 				23EB214B24222BF7006288C0 /* RotateAViewin3D.swift in Sources */,
 				23EB213B24221552006288C0 /* AdjustPositionWithOffSet.swift in Sources */,
 				23EB214524222290006288C0 /* ShadowAroundAView.swift in Sources */,
 				23EB214D24222D66006288C0 /* ScaleAViewUpOrDown.swift in Sources */,
+				23EB2151242232AB006288C0 /* SecondView.swift in Sources */,
 				23EB2149242228DD006288C0 /* RotateAView.swift in Sources */,
 				23EB213D242219F0006288C0 /* ColorPaddingView.swift in Sources */,
 				23EB210B2422148D006288C0 /* AppDelegate.swift in Sources */,
