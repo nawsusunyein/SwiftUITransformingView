@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct SecondView: View {
-    let componentsList = ["Scale a view up or down","Opacity of a view"]
+    let componentsList = ["Scale a view up or down","Opacity of a view","Accent color"]
     var body: some View {
         List{
             NavigationLink(destination:ScaleAViewUpOrDown()){
@@ -26,6 +26,13 @@ struct SecondView: View {
                     .foregroundColor(Color.white)
                     .cornerRadius(10)
             }.buttonStyle(PlainButtonStyle())
+            NavigationLink(destination:AccentColorView()){
+                Text(componentsList[2])
+                    .padding()
+                    .background(Color.blue)
+                    .foregroundColor(Color.white)
+                    .cornerRadius(10)
+            }
         }
     }
 }
