@@ -16,6 +16,7 @@
 		23EB21222422148E006288C0 /* SwiftUITransformingViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB21212422148E006288C0 /* SwiftUITransformingViewTests.swift */; };
 		23EB212D2422148E006288C0 /* SwiftUITransformingViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB212C2422148E006288C0 /* SwiftUITransformingViewUITests.swift */; };
 		23EB213B24221552006288C0 /* AdjustPositionWithOffSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB213A24221552006288C0 /* AdjustPositionWithOffSet.swift */; };
+		23EB213D242219F0006288C0 /* ColorPaddingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB213C242219F0006288C0 /* ColorPaddingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		23EB212C2422148E006288C0 /* SwiftUITransformingViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITransformingViewUITests.swift; sourceTree = "<group>"; };
 		23EB212E2422148E006288C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		23EB213A24221552006288C0 /* AdjustPositionWithOffSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjustPositionWithOffSet.swift; sourceTree = "<group>"; };
+		23EB213C242219F0006288C0 /* ColorPaddingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPaddingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				23EB21182422148E006288C0 /* Info.plist */,
 				23EB21122422148E006288C0 /* Preview Content */,
 				23EB213A24221552006288C0 /* AdjustPositionWithOffSet.swift */,
+				23EB213C242219F0006288C0 /* ColorPaddingView.swift */,
 			);
 			path = SwiftUITransformingView;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23EB213B24221552006288C0 /* AdjustPositionWithOffSet.swift in Sources */,
+				23EB213D242219F0006288C0 /* ColorPaddingView.swift in Sources */,
 				23EB210B2422148D006288C0 /* AppDelegate.swift in Sources */,
 				23EB210D2422148D006288C0 /* SceneDelegate.swift in Sources */,
 				23EB210F2422148D006288C0 /* ContentView.swift in Sources */,
