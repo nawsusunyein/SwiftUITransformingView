@@ -20,6 +20,7 @@
 		23EB213F24221B4E006288C0 /* StackModifiersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB213E24221B4E006288C0 /* StackModifiersView.swift */; };
 		23EB214124221D82006288C0 /* BorderAroundAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214024221D82006288C0 /* BorderAroundAView.swift */; };
 		23EB2143242220F2006288C0 /* BorderInsideAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB2142242220F1006288C0 /* BorderInsideAView.swift */; };
+		23EB214524222290006288C0 /* ShadowAroundAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214424222290006288C0 /* ShadowAroundAView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		23EB213E24221B4E006288C0 /* StackModifiersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackModifiersView.swift; sourceTree = "<group>"; };
 		23EB214024221D82006288C0 /* BorderAroundAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderAroundAView.swift; sourceTree = "<group>"; };
 		23EB2142242220F1006288C0 /* BorderInsideAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderInsideAView.swift; sourceTree = "<group>"; };
+		23EB214424222290006288C0 /* ShadowAroundAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowAroundAView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				23EB213C242219F0006288C0 /* ColorPaddingView.swift */,
 				23EB213E24221B4E006288C0 /* StackModifiersView.swift */,
 				23EB2142242220F1006288C0 /* BorderInsideAView.swift */,
+				23EB214424222290006288C0 /* ShadowAroundAView.swift */,
 			);
 			path = SwiftUITransformingView;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			files = (
 				23EB2143242220F2006288C0 /* BorderInsideAView.swift in Sources */,
 				23EB213B24221552006288C0 /* AdjustPositionWithOffSet.swift in Sources */,
+				23EB214524222290006288C0 /* ShadowAroundAView.swift in Sources */,
 				23EB213D242219F0006288C0 /* ColorPaddingView.swift in Sources */,
 				23EB210B2422148D006288C0 /* AppDelegate.swift in Sources */,
 				23EB210D2422148D006288C0 /* SceneDelegate.swift in Sources */,
