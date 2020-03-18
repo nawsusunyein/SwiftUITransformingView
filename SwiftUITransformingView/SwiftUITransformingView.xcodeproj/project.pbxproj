@@ -23,6 +23,7 @@
 		23EB214524222290006288C0 /* ShadowAroundAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214424222290006288C0 /* ShadowAroundAView.swift */; };
 		23EB2147242225DE006288C0 /* ClipAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB2146242225DE006288C0 /* ClipAView.swift */; };
 		23EB2149242228DD006288C0 /* RotateAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB2148242228DD006288C0 /* RotateAView.swift */; };
+		23EB214B24222BF7006288C0 /* RotateAViewin3D.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB214A24222BF7006288C0 /* RotateAViewin3D.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -65,6 +66,7 @@
 		23EB214424222290006288C0 /* ShadowAroundAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShadowAroundAView.swift; sourceTree = "<group>"; };
 		23EB2146242225DE006288C0 /* ClipAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClipAView.swift; sourceTree = "<group>"; };
 		23EB2148242228DD006288C0 /* RotateAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateAView.swift; sourceTree = "<group>"; };
+		23EB214A24222BF7006288C0 /* RotateAViewin3D.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateAViewin3D.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				23EB214424222290006288C0 /* ShadowAroundAView.swift */,
 				23EB2146242225DE006288C0 /* ClipAView.swift */,
 				23EB2148242228DD006288C0 /* RotateAView.swift */,
+				23EB214A24222BF7006288C0 /* RotateAViewin3D.swift */,
 			);
 			path = SwiftUITransformingView;
 			sourceTree = "<group>";
@@ -292,6 +295,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				23EB2143242220F2006288C0 /* BorderInsideAView.swift in Sources */,
+				23EB214B24222BF7006288C0 /* RotateAViewin3D.swift in Sources */,
 				23EB213B24221552006288C0 /* AdjustPositionWithOffSet.swift in Sources */,
 				23EB214524222290006288C0 /* ShadowAroundAView.swift in Sources */,
 				23EB2149242228DD006288C0 /* RotateAView.swift in Sources */,
