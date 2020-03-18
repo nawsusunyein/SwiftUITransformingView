@@ -9,7 +9,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    let componentsList = ["Adjust position with Offset","Color padding view","Stack Modifiers","Border Around a View"]
+    let componentsList = ["Adjust position with Offset","Color padding view","Stack Modifiers","Border Around a View","Border Inside a View"]
     
     var body: some View {
         NavigationView{
@@ -37,6 +37,13 @@ struct ContentView: View {
                 }
                 NavigationLink(destination:BorderAroundAView()){
                     Text(componentsList[3])
+                        .padding()
+                        .background(Color.blue)
+                        .foregroundColor(Color.white)
+                        .cornerRadius(10)
+                }
+                NavigationLink(destination:BorderInsideAView()){
+                    Text(componentsList[4])
                         .padding()
                         .background(Color.blue)
                         .foregroundColor(Color.white)
