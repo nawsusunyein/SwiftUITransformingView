@@ -10,6 +10,7 @@
 		23D80DF72423182A00E1BF8A /* MaskWithView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D80DF62423182A00E1BF8A /* MaskWithView.swift */; };
 		23D80DF924231B8600E1BF8A /* BlurAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D80DF824231B8600E1BF8A /* BlurAView.swift */; };
 		23D80DFB24231D2F00E1BF8A /* BlendAView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D80DFA24231D2F00E1BF8A /* BlendAView.swift */; };
+		23D80DFD2423206700E1BF8A /* AdjustViewWithColorFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D80DFC2423206600E1BF8A /* AdjustViewWithColorFunctions.swift */; };
 		23EB210B2422148D006288C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB210A2422148D006288C0 /* AppDelegate.swift */; };
 		23EB210D2422148D006288C0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB210C2422148D006288C0 /* SceneDelegate.swift */; };
 		23EB210F2422148D006288C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB210E2422148D006288C0 /* ContentView.swift */; };
@@ -54,6 +55,7 @@
 		23D80DF62423182A00E1BF8A /* MaskWithView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskWithView.swift; sourceTree = "<group>"; };
 		23D80DF824231B8600E1BF8A /* BlurAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurAView.swift; sourceTree = "<group>"; };
 		23D80DFA24231D2F00E1BF8A /* BlendAView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlendAView.swift; sourceTree = "<group>"; };
+		23D80DFC2423206600E1BF8A /* AdjustViewWithColorFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdjustViewWithColorFunctions.swift; sourceTree = "<group>"; };
 		23EB21072422148D006288C0 /* SwiftUITransformingView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITransformingView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23EB210A2422148D006288C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23EB210C2422148D006288C0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -154,6 +156,7 @@
 				23D80DF62423182A00E1BF8A /* MaskWithView.swift */,
 				23D80DF824231B8600E1BF8A /* BlurAView.swift */,
 				23D80DFA24231D2F00E1BF8A /* BlendAView.swift */,
+				23D80DFC2423206600E1BF8A /* AdjustViewWithColorFunctions.swift */,
 			);
 			path = SwiftUITransformingView;
 			sourceTree = "<group>";
@@ -330,6 +333,7 @@
 				23EB210B2422148D006288C0 /* AppDelegate.swift in Sources */,
 				23EB210D2422148D006288C0 /* SceneDelegate.swift in Sources */,
 				23EB2147242225DE006288C0 /* ClipAView.swift in Sources */,
+				23D80DFD2423206700E1BF8A /* AdjustViewWithColorFunctions.swift in Sources */,
 				23D80DFB24231D2F00E1BF8A /* BlendAView.swift in Sources */,
 				23EB214124221D82006288C0 /* BorderAroundAView.swift in Sources */,
 				23EB213F24221B4E006288C0 /* StackModifiersView.swift in Sources */,
