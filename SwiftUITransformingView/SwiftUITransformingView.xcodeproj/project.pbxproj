@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23D80DF72423182A00E1BF8A /* MaskWithView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D80DF62423182A00E1BF8A /* MaskWithView.swift */; };
 		23EB210B2422148D006288C0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB210A2422148D006288C0 /* AppDelegate.swift */; };
 		23EB210D2422148D006288C0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB210C2422148D006288C0 /* SceneDelegate.swift */; };
 		23EB210F2422148D006288C0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23EB210E2422148D006288C0 /* ContentView.swift */; };
@@ -48,6 +49,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		23D80DF62423182A00E1BF8A /* MaskWithView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskWithView.swift; sourceTree = "<group>"; };
 		23EB21072422148D006288C0 /* SwiftUITransformingView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITransformingView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23EB210A2422148D006288C0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		23EB210C2422148D006288C0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -145,6 +147,7 @@
 				23EB214E242231F3006288C0 /* OpacityOfAView.swift */,
 				23EB2150242232AB006288C0 /* SecondView.swift */,
 				23EB215224223612006288C0 /* AccentColorView.swift */,
+				23D80DF62423182A00E1BF8A /* MaskWithView.swift */,
 			);
 			path = SwiftUITransformingView;
 			sourceTree = "<group>";
@@ -311,6 +314,7 @@
 				23EB214B24222BF7006288C0 /* RotateAViewin3D.swift in Sources */,
 				23EB213B24221552006288C0 /* AdjustPositionWithOffSet.swift in Sources */,
 				23EB214524222290006288C0 /* ShadowAroundAView.swift in Sources */,
+				23D80DF72423182A00E1BF8A /* MaskWithView.swift in Sources */,
 				23EB214D24222D66006288C0 /* ScaleAViewUpOrDown.swift in Sources */,
 				23EB2151242232AB006288C0 /* SecondView.swift in Sources */,
 				23EB2149242228DD006288C0 /* RotateAView.swift in Sources */,
